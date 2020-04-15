@@ -1,8 +1,8 @@
 {
-  "name": "button",
+  "name": "@open-marketplace-applications/button",
   "version": "0.0.3",
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "6b0ca53970de9e4e515fb86170330397dd860f44"
+  "gitHead": "f7326451e0eedfa6c8f91747fff968c232e671fb"
 }
