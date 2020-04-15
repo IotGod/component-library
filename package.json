@@ -1,7 +1,9 @@
 {
-  "name": "component-library",
-  "version": "0.1.0",
-  "private": true,
+  "name": "@open-marketplace-applications/component-library",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -32,7 +34,9 @@
     "babel-preset-vue": "^2.0.2",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "lerna": "^3.20.2",
     "storybook-dark-mode": "^0.4.1",
+    "vue-loader": "^15.9.1",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
