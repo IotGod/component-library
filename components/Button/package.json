@@ -1,7 +1,8 @@
 {
-  "name": "@oma/button",
+  "name": "button",
   "version": "0.0.2",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "6b0ca53970de9e4e515fb86170330397dd860f44"
 }
